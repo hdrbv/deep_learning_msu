@@ -25,6 +25,10 @@
 
 ## Рекомендованная литература
 
+- [Bengio Y., Courville A., Vincent P. Unsupervised Feature Learning and DeepLearning: A Review and New Perspectives](http://arxiv.org/abs/1206.5538)
+- Deng L., Yu D. Deep Learning: Methods and Applications // Foundations and Trends in Signal Processing
+- Goodfellow I., Bengio Y., Courville A. Deep Learning
+- LeCun Y., Bengio Y., Hinton G. Deep learning // Nature, 2015
 - Murphy K. Machine Learning: A Probabilistic Perspective
 - Mohammed J. Zaki, Wagner Meira Jr. Data Mining and Analysis. Fundamental Concepts and Algorithms
 - Willi Richert, Luis Pedro Coelho. Building Machine Learning Systems with Python
